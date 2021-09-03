@@ -1,7 +1,7 @@
 ### Hi there 👋
-My Name is Physics Phreak.
-I code in Python and I'm learning Java
-I mainly code AI networks using PyTorch, and I'm learning to code GAN Models that actually work
+My Name is Physics Phreak. <br>
+I code in Python and I'm learning Java <br>
+I mainly code AI networks using PyTorch, and I'm learning to code GAN Models that actually work <br>
 
 <!--
 **Physics-Phreak/Physics-Phreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
