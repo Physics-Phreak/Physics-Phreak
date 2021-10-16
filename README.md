@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My Name is Physics Phreak, a 14yr old programming enthusiast who wants to become a physicist<br>
+My Name is Anubhav, a 14yr old programming enthusiast who wants to become a physicist<br>
 
 **My spellings are terrible, so please dont mind if I mispell anything** <br>
 
